@@ -8,7 +8,7 @@ idna==2.6
 ipaddress==1.0.18
 ndg-httpsclient==0.4.3
 nltk==3.2.5
-numpy==1.13.3
+numpy==1.22.0
 pandas==0.21.0
 pyasn1==0.4.2
 pycparser==2.18
